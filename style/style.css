@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1{
+    text-align: center;
+    margin-top: 10%;
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 500%;
+    font-weight: 200px;
+    letter-spacing: -10px;
+}
+
+#G{
+    color: #4285F4;
+}
+#gee{
+    color: #4285F4;
+}
+#oh{
+    color: #EA4335;
+}
+#e{
+    color: #EA4335;
+}
+#ho{
+    color: #FBBC05;
+}
+#l{
+    color: #34A853;
+}
+
+/* .con{
+    position: relative;
+    width: 100%;
+    margin-top: 20px;
+} */
+
+.con{
+    
+}
+
+#form{
+    width: 100%;
+    padding: 13px;
+    padding-left: 45px;
+    padding-right: 60px;
+    border-radius: 30px;
+    outline: none;
+    font-size: 16px;
+}
+    /* background-color: #4285F4;
+    height: 20%;
+    border-radius: 20px;
+    margin-left: 40%;
+    margin-right: 25%; */
+ 
+
+
+
+#form{
+  padding: 15px;
+  border: 50px;
+  width: 500px;
+  margin: 20px;
+  margin-left: 32%;
+  padding-left: 4.5%;
+  border: 1px solid rgb(158, 141, 141);
+}
+
+ 
+#form:hover{
+    background-color: white;
+    box-shadow: whitesmoke 5px 5px 5px 5px;
+}
+
+i{
+     
+    color: rgb(110, 102, 102);
+    position: absolute;
+    left:452px;
+    bottom: 385px;
+    font-size: 12px;
+    padding-left: 30px;
+     
+}
+
+#li{
+ 
+color: #EA4335;
+position: absolute;
+left:840px;
+bottom: 385px;
+ }
+
+#ca{
+    
+    color: #4285F4;
+    position: absolute;
+    left:870px;
+    bottom: 385px;
+ }
+.hi{
+    color: #34A853;
+    
+}
+
+.btn{
+ 
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px 550px;
+    
+ }
+
+ button{
+    padding: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+    border: 1px solid whitesmoke;
+
+}
+
+button:hover{
+    background-color: whitesmoke;
+    border: 1px solid rgb(168, 159, 142);
+
+}
+
+p{
+    text-align: center;
+    color:rgb(80, 73, 73)
+    
+}
+
+a{
+    text-decoration: none;
+}  
